@@ -1,6 +1,6 @@
-# Issue Tracker
+# Kanban Board
 
-Simple kanban board to track issues. This is a proof-of-concept for us to use
+Simple kanban board to track tasks. This is a proof-of-concept for us to use
 when teaching students web development.
 
 ## Running
@@ -18,4 +18,3 @@ Backend (`cd backend`):
 npm i
 node server.js
 ```
-
